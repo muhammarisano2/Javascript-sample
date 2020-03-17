@@ -4,4 +4,4 @@ console.log(warna);
 
 let random = Math.(Math.random() * 10);
 console.log(random)
-// hello
+// hello ini saya pindahkan ke github
